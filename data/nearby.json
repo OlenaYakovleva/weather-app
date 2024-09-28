@@ -1,0 +1,202 @@
+{
+    "message": "accurate",
+    "cod": "200",
+    "count": 5,
+    "list": [
+        {
+            "id": 710791,
+            "name": "Cherkasy",
+            "coord": {
+                "lat": 49.4285,
+                "lon": 32.0621
+            },
+            "main": {
+                "temp": 263.84,
+                "feels_like": 258.16,
+                "temp_min": 263.84,
+                "temp_max": 263.84,
+                "pressure": 1019,
+                "humidity": 89,
+                "sea_level": 1019,
+                "grnd_level": 1005
+            },
+            "dt": 1705507748,
+            "wind": {
+                "speed": 3.27,
+                "deg": 123
+            },
+            "sys": {
+                "country": "UA"
+            },
+            "rain": null,
+            "snow": null,
+            "clouds": {
+                "all": 21
+            },
+            "weather": [
+                {
+                    "id": 801,
+                    "main": "Clouds",
+                    "description": "few clouds",
+                    "icon": "02n"
+                }
+            ]
+        },
+        {
+            "id": 705844,
+            "name": "Khutory",
+            "coord": {
+                "lat": 49.3833,
+                "lon": 32.0333
+            },
+            "main": {
+                "temp": 263.87,
+                "feels_like": 258.4,
+                "temp_min": 263.87,
+                "temp_max": 263.87,
+                "pressure": 1019,
+                "humidity": 90,
+                "sea_level": 1019,
+                "grnd_level": 1007
+            },
+            "dt": 1705507523,
+            "wind": {
+                "speed": 3.09,
+                "deg": 124
+            },
+            "sys": {
+                "country": "UA"
+            },
+            "rain": null,
+            "snow": null,
+            "clouds": {
+                "all": 24
+            },
+            "weather": [
+                {
+                    "id": 801,
+                    "main": "Clouds",
+                    "description": "few clouds",
+                    "icon": "02n"
+                }
+            ]
+        },
+        {
+            "id": 710587,
+            "name": "Chervona Sloboda",
+            "coord": {
+                "lat": 49.3789,
+                "lon": 32.1464
+            },
+            "main": {
+                "temp": 263.79,
+                "feels_like": 258.22,
+                "temp_min": 263.79,
+                "temp_max": 263.79,
+                "pressure": 1019,
+                "humidity": 90,
+                "sea_level": 1019,
+                "grnd_level": 1008
+            },
+            "dt": 1705507523,
+            "wind": {
+                "speed": 3.16,
+                "deg": 123
+            },
+            "sys": {
+                "country": "UA"
+            },
+            "rain": null,
+            "snow": null,
+            "clouds": {
+                "all": 24
+            },
+            "weather": [
+                {
+                    "id": 801,
+                    "main": "Clouds",
+                    "description": "few clouds",
+                    "icon": "02n"
+                }
+            ]
+        },
+        {
+            "id": 695104,
+            "name": "Ruska Poliana",
+            "coord": {
+                "lat": 49.417,
+                "lon": 31.9201
+            },
+            "main": {
+                "temp": 263.93,
+                "feels_like": 258.56,
+                "temp_min": 263.93,
+                "temp_max": 263.93,
+                "pressure": 1019,
+                "humidity": 90,
+                "sea_level": 1019,
+                "grnd_level": 1004
+            },
+            "dt": 1705507766,
+            "wind": {
+                "speed": 3.01,
+                "deg": 124
+            },
+            "sys": {
+                "country": "UA"
+            },
+            "rain": null,
+            "snow": null,
+            "clouds": {
+                "all": 21
+            },
+            "weather": [
+                {
+                    "id": 801,
+                    "main": "Clouds",
+                    "description": "few clouds",
+                    "icon": "02n"
+                }
+            ]
+        },
+        {
+            "id": 700730,
+            "name": "Moshny",
+            "coord": {
+                "lat": 49.5147,
+                "lon": 31.7476
+            },
+            "main": {
+                "temp": 264.5,
+                "feels_like": 259.63,
+                "temp_min": 264.5,
+                "temp_max": 264.5,
+                "pressure": 1019,
+                "humidity": 89,
+                "sea_level": 1019,
+                "grnd_level": 1008
+            },
+            "dt": 1705507766,
+            "wind": {
+                "speed": 2.69,
+                "deg": 120
+            },
+            "sys": {
+                "country": "UA"
+            },
+            "rain": null,
+            "snow": null,
+            "clouds": {
+                "all": 14
+            },
+            "weather": [
+                {
+                    "id": 801,
+                    "main": "Clouds",
+                    "description": "few clouds",
+                    "icon": "02n"
+                }
+            ]
+        }
+    ]
+}
